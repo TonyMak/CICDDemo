@@ -3,7 +3,7 @@ pipeline {
 
 	parameters {
 		string(name: 'CONFIGURATION', defaultValue: 'Release', description: 'Debug|Release')
-		string(name: 'ENV'), defaultValue: '', description: 'uat|production'
+		string(name: 'ENV', defaultValue: '', description: 'uat|production')
 		booleanParam(name: 'RASP', defaultValue: true, description: '')
 		booleanParam(name: 'UPLOAD_ARCHIVE', defaultValue: false, description: '')
 		booleanParam(name: 'SKIP_TEST', defaultValue: false, description: '')
