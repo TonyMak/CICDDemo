@@ -1,5 +1,5 @@
 pipeline {
-	agent { label 'xcode13' }
+	agent any
 
 	parameters {
 		string(name: 'CONFIGURATION', defaultValue: 'Release', description: 'Debug|Release')
