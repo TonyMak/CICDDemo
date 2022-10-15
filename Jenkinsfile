@@ -233,8 +233,4 @@ pipeline {
 			}
 		}
 	}
-
-	post {
-		// Trigger slack notification api w/ customised message : success, failure, aborted, unstable
-	}
 }
