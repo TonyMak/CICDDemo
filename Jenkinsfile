@@ -235,10 +235,6 @@ pipeline {
 	}
 
 	post {
-		// Trigger slack notification api w/ customised message to each block you need
-		success {}
-		failure {}
-		aborted {}
-		unstable {}
+		// Trigger slack notification api w/ customised message : success, failure, aborted, unstable
 	}
 }
