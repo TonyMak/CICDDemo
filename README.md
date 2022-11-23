@@ -150,16 +150,6 @@
 
 <p>Above is common concept as starter. Terms similar between different automation platforms, to know more in&nbsp;<a href="https://www.jenkins.io/doc/book/glossary/">Jenkins&#39; glossary</a>.</p>
 
-<h2>⚙&nbsp;Sample Project (Jenkins)</h2>
-
-<p><a href="https://github.com/TonyMak/cicddemo">GitHub CICD Demo</a><br />
-- Jenkinsfile<br />
-- BuildScript</p>
-
-<h2>📍&nbsp;Q&amp;A</h2>
-
-<p>TBC</p>
-
 <h2>📖&nbsp;Reference</h2>
 
 <ol>
