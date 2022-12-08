@@ -96,7 +96,7 @@
 </table>
 
 <h2>📍&nbsp;Flow Overview</h2>
-![alt text] (https://github.com/TonyMak/cicddemo/blob/master/cicd_overview.png?raw=true)
+<img src="Image/cicd_overview.png" alt="CICD Overview">
 <p>Above is&nbsp;<strong>normal flow</strong>&nbsp;which could be applied to most of the scence. However, the magic of Jenkins is&nbsp;<strong>fully flexible that you could customise</strong>&nbsp;the own stage you need.</p>
 
 <p>For example, we might add RASP checking before Step.10, to protect our application away from risk. All CI/CD stage could be configurated in config. file.</p>
